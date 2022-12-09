@@ -1,5 +1,5 @@
 # OAI-5gcn
-Openairinterface 5gcn with ueransim\
+Openairinterface 5gcn with ueransim
 
 Build UERANSIM docker image\
 $ cd UERANSIM\
