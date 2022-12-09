@@ -7,4 +7,7 @@ $ ./pull_oai_5gnc_images.sh
 Build UERANSIM docker image\
 $ cd UERANSIM\
 $  docker build --target ueransim --tag ueransim:latest -f docker/Dockerfile.ubuntu.18.04 .\
+
+Run topology\
+
 $  sudo python3 oai_5gcn_deployment.py 
