@@ -1,7 +1,7 @@
 # OAI-5gcn
 Openairinterface 5gcn with ueransim
 
-Pulling the images from Docker Hub
+Pulling the images from Docker Hub\
 $ ./pull_oai_5gnc_images.sh 
 
 Build UERANSIM docker image\
